@@ -1,0 +1,9 @@
+{
+    "data_file": "F:\\学习\\豆瓣\\OriginBook\\h2o.csv",
+    "X": "Vref",
+    "Y": "Id",
+    "NeedCol": ["Id", "Vg", "gm", "Vref"],
+    "project": "F:\\学习\\豆瓣\\OriginBook\\UNTITLED.opju",
+    "output_dir": "F:\\学习\\豆瓣\\OriginBook",
+    "delimiter": ","
+}
