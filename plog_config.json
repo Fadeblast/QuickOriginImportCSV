@@ -1,9 +1,10 @@
 {
-    "data_file": "F:\\学习\\豆瓣\\OriginBook\\h2o.csv",
+    "data_file": "F:\\study\\douban\\OriginBook\\h2o.csv",
     "X": "Vref",
     "Y": "Id",
     "NeedCol": ["Id", "Vg", "gm", "Vref"],
-    "project": "F:\\学习\\豆瓣\\OriginBook\\UNTITLED.opju",
-    "output_dir": "F:\\学习\\豆瓣\\OriginBook",
+    "project": "F:\\study\\douban\\OriginBook\\UNTITLED.opju",
+    "output_dir": "F:\\study\\douban\\OriginBook",
     "delimiter": ","
+
 }
