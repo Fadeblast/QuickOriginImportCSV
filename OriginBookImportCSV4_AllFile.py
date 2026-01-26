@@ -846,7 +846,7 @@ def main():
         print("2. 自动提取并应用列单位信息")
         print("3. 以DataName行的列顺序为准")
 
-        return plot_success
+            #return plot_success
 
     except Exception as e:
         print(f"\n❌ 程序执行出错：{e}")
@@ -861,3 +861,4 @@ def main():
 if __name__ == '__main__':
     success = main()
     sys.exit(0 if success else 1)
+
